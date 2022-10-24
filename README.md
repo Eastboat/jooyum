@@ -14,7 +14,7 @@
 
 ![](http://learn-imgs.oss-cn-shanghai.aliyuncs.com/vue3/2022-10-24-wx_1.png)
 
-![](http://learn-imgs.oss-cn-shanghai.aliyu
+![](http://learn-imgs.oss-cn-shanghai.aliyuncs.com/vue3/2022-10-24-wx_2.png)
 
 
 ## PC Admin
